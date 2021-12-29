@@ -15,7 +15,7 @@ def configure_static(app):
 
 
 def create_tables():
-	print("DB테이블 생성.")
+	# print("create_tables")
 	Base.metadata.create_all(bind=engine)
 
 	

@@ -17,3 +17,7 @@ psycopg2
 
 #for environment variables
 python-dotenv
+
+
+#for email validation
+pydantic[email]
