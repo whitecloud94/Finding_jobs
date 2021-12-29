@@ -21,3 +21,8 @@ python-dotenv
 
 #for email validation
 pydantic[email]
+
+
+#for testing
+pytest
+requests
