@@ -26,3 +26,11 @@ pydantic[email]
 #for testing
 pytest
 requests
+
+
+#for JWT
+jose
+
+
+#for accessing form data
+python-multipart
